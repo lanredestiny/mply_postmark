@@ -1,0 +1,8 @@
+msgid ""
+msgstr "Content-Type: text/plain\n"
+
+msgid "email.multiply.phone_number"
+msgstr "+ 33-numéro-telephone-non-existent"
+
+msgid "email.multiply.greeting"
+msgstr "Bonjour"

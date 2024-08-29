@@ -1,0 +1,9 @@
+{
+  "alias": "test_dummy",
+  "subject": {
+    "en": "English subject",
+    "fr": "Sujet français",
+    "it": "Soggetto italiano",
+    "de": "Deutsches Thema"
+  }
+}

@@ -1,0 +1,5 @@
+# All relevant config info for postmark API, and any other tools
+TRANSLIZED_API_KEY = "XXX"
+TRANSLIZED_PROJECT_ID = "XXX"
+
+POSTMARK_SERVER_TOKEN = "XXX"  # Eml dev staging server

@@ -1,0 +1,9 @@
+{
+  "alias": "multiply_notification",
+  "subject": {
+    "en": "Notifications from your Multiply account",
+    "fr": "Notifications de votre compte Multiply",
+    "it": "Notifiche dall'account Multiply",
+    "de": "Benachrichtigungen von Ihrem Multiply-Konto"
+  }
+}

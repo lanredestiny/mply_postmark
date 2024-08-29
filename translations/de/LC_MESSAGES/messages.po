@@ -1,0 +1,8 @@
+msgid ""
+msgstr "Content-Type: text/plain\n"
+
+msgid "email.multiply.phone_number"
+msgstr "+ 49-Gefälschte-Rufnummer"
+
+msgid "email.multiply.greeting"
+msgstr "Hallo"
